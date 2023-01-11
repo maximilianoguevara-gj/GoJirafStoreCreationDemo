@@ -1,0 +1,26 @@
+{
+  "name": "gojirafstorecreationdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxGuevara84/GoJirafStoreCreationDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxGuevara84/GoJirafStoreCreationDemo/issues"
+  },
+  "homepage": "https://github.com/MaxGuevara84/GoJirafStoreCreationDemo#readme",
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8"
+  },
+  "dependencies": {
+    "create-vue": "^3.5.0",
+    "vue": "^3.2.45"
+  }
+}
